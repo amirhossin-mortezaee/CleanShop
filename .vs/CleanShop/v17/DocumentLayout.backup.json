@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Project\\CleanShop\\CleanShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{772A0B78-E62D-4DC6-A731-D93942CC7D3E}|CleanShop.Domain\\CleanShop.Domain.csproj|g:\\project\\cleanshop\\cleanshop\\cleanshop.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772A0B78-E62D-4DC6-A731-D93942CC7D3E}|CleanShop.Domain\\CleanShop.Domain.csproj|solutionrelative:cleanshop.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772A0B78-E62D-4DC6-A731-D93942CC7D3E}|CleanShop.Domain\\CleanShop.Domain.csproj|g:\\project\\cleanshop\\cleanshop\\cleanshop.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772A0B78-E62D-4DC6-A731-D93942CC7D3E}|CleanShop.Domain\\CleanShop.Domain.csproj|solutionrelative:cleanshop.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "CleanShop.Domain\\Entities\\Product.cs",
+              "ToolTip": "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "CleanShop.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T11:30:45.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CleanShop.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "CleanShop.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T11:29:48.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
