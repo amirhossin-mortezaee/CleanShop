@@ -8,5 +8,9 @@ namespace CleanShop.Domain.Entities
         public string Description { get; set; } = null!;
         public decimal Price { get; set; }
         public int Stock { get; set; }
+
+        //Navigation Property
+
+        public Category Category { get; set; } = null!;
     }
 }
