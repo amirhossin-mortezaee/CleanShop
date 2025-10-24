@@ -1,4 +1,6 @@
 ﻿using CleanShop.Domain.Common;
+using CleanShop.Domain.Exceptions;
+
 
 namespace CleanShop.Domain.Entities
 {
@@ -36,7 +38,7 @@ namespace CleanShop.Domain.Entities
                 throw new DomainException("موجودی کافی نیست.");
 
             Stock -= quantity;
-            setUpdated();
+            SetUpdated();
         }
         
         //افزایش موجودی
@@ -46,7 +48,7 @@ namespace CleanShop.Domain.Entities
                 throw new DomainException("تعداد باید بیشتر از صفر باشد");
 
             Stock += quantity;
-            setUpdated();
+            SetUpdated();
         }
         //Navigation Property
         public Category Category { get; set; } = null!;

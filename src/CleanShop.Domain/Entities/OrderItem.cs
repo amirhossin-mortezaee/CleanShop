@@ -1,5 +1,7 @@
 ﻿using CleanShop.Domain.Common;
 using CleanShop.Domain.Entities;
+using CleanShop.Domain.Exceptions;
+
 
 namespace CleanShop.Domain;
 

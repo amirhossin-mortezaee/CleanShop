@@ -1,4 +1,4 @@
-﻿namespace CleanShop.Domain;
+﻿namespace CleanShop.Domain.Exceptions;
 
 /// <summary>
 /// خطاهای منطقی (Business Logic) در لایه دامنه
