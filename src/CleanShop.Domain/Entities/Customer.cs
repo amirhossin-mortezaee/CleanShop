@@ -1,14 +1,38 @@
-﻿using System.Collections;
-using CleanShop.Domain.Common;
+﻿using CleanShop.Domain.Common;
+using CleanShop.Domain.Exceptions;
 
-namespace CleanShop.Domain;
+namespace CleanShop.Domain.Entities;
 
 public class Customer : BaseEntity
 {
-    public string FullName { get; set; } = null!;
-    public string Email { get; set; } = null!;
-    public string PhoneNumber { get; set; } = null!;
-    public string Address { get; set; } = null!;
+    public string FullName { get; private set; } = null!;
+    public string Email { get; private set; } = null!;
+    public string PhoneNumber { get; private set; } = null!;
+    public string Address { get; private set; } = null!;
 
-    public ICollection<Order> Orders { get; set; } = new List<Order>();
+    private readonly List<Order> _orders = new();
+    public IReadOnlyCollection<Order> Orders => _orders.AsReadOnly();
+
+    public Customer(string fullName, string email, string phone, string address)
+    {
+        if (string.IsNullOrWhiteSpace(fullName))
+            throw new DomainException("نام مشتری الزامی است.");
+        if (string.IsNullOrWhiteSpace(email))
+            throw new DomainException("ایمیل الزامی است.");
+
+        FullName = fullName.Trim();
+        Email = email.Trim();
+        PhoneNumber = phone.Trim();
+        Address = address.Trim();
+    }
+
+    public void AddOrder(Order order)
+    {
+        if (order == null)
+            throw new DomainException("سفارش نمی‌تواند null باشد.");
+
+        _orders.Add(order);
+        SetUpdated();
+    }
 }
+

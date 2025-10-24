@@ -1,13 +1,33 @@
 ﻿using CleanShop.Domain.Common;
+using CleanShop.Domain.Exceptions;
 
-namespace CleanShop.Domain;
+namespace CleanShop.Domain.Entities;
 
 public class Order : BaseEntity
 {
-    public Guid CustomerId { get; set; }
-    public Customer Customer { get; set; } = null!;
-    public decimal Totalprice { get; set; }
-    public OrderStatus Status { get; set; } = OrderStatus.Pending;
+    private readonly List<OrderItem> _items = new();
+    public IReadOnlyCollection<OrderItem> Items => _items.AsReadOnly();
 
-    public ICollection<OrderItem> Items { get; set; } = new List<OrderItem>();
+    public Guid CustomerId { get; private set; }
+    public decimal TotalAmount => _items.Sum(i => i.TotalPrice);
+
+    public Order(Guid customerId)
+    {
+        if (customerId == Guid.Empty)
+            throw new DomainException("شناسه مشتری معتبر نیست.");
+        CustomerId = customerId;
+    }
+
+    public void AddItem(Product product, int quantity)
+    {
+        if (product == null)
+            throw new DomainException("محصول نمی‌تواند null باشد.");
+
+        if (quantity <= 0)
+            throw new DomainException("تعداد باید بیشتر از صفر باشد.");
+
+        var item = new OrderItem(product.Id, product.Price, quantity);
+        _items.Add(item);
+        SetUpdated();
+    }
 }

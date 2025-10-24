@@ -5,12 +5,18 @@ namespace CleanShop.Domain;
 
 public class OrderItem : BaseEntity
 {
-    public Guid OrderId { get; set; }
-    public Order Order { get; set; } = null!;
+    public Guid ProductId { get; private set; }
+    public decimal UnitPrice { get; private set; }
+    public int Quantity { get; private set; }
+    public decimal TotalPrice => UnitPrice * Quantity;
 
-    public Guid ProductId { get; set; }
-    public Product Product { get; set; } = null!;
+    public OrderItem(Guid productId, decimal unitPrice, int quantity)
+    {
+        if (quantity <= 0)
+            throw new DomainException("تعداد باید بیشتر از صفر باشد.");
 
-    public int Quantity { get; set; }
-    public decimal UnitPrice { get; set; }
+        ProductId = productId;
+        UnitPrice = unitPrice;
+        Quantity = quantity;
+    }
 }
