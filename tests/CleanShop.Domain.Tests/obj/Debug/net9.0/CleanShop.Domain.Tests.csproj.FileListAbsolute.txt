@@ -1,11 +1,5 @@
 G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_CleanShop.Domain.Tests
 G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_CleanShop.Domain.Tests
-G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\obj\Debug\net9.0\CleanShop.Domain.Tests.csproj.AssemblyReference.cache
-G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\obj\Debug\net9.0\CleanShop.Domain.Tests.GeneratedMSBuildEditorConfig.editorconfig
-G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\obj\Debug\net9.0\CleanShop.Domain.Tests.AssemblyInfoInputs.cache
-G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\obj\Debug\net9.0\CleanShop.Domain.Tests.AssemblyInfo.cs
-G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\obj\Debug\net9.0\CleanShop.Domain.Tests.csproj.CoreCompileInputs.cache
-G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\obj\Debug\net9.0\CleanShop.Domain.Tests.sourcelink.json
 G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\bin\Debug\net9.0\testhost.dll
 G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\bin\Debug\net9.0\xunit.abstractions.dll
 G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\bin\Debug\net9.0\testhost.exe
@@ -93,6 +87,12 @@ G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\bin\Debug\net9.0\zh-
 G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\bin\Debug\net9.0\CleanShop.Domain.dll
 G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\bin\Debug\net9.0\CleanShop.Domain.pdb
+G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\obj\Debug\net9.0\CleanShop.Domain.Tests.csproj.AssemblyReference.cache
+G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\obj\Debug\net9.0\CleanShop.Domain.Tests.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\obj\Debug\net9.0\CleanShop.Domain.Tests.AssemblyInfoInputs.cache
+G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\obj\Debug\net9.0\CleanShop.Domain.Tests.AssemblyInfo.cs
+G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\obj\Debug\net9.0\CleanShop.Domain.Tests.csproj.CoreCompileInputs.cache
+G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\obj\Debug\net9.0\CleanShop.Domain.Tests.sourcelink.json
 G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\obj\Debug\net9.0\CleanSho.77791263.Up2Date
 G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\obj\Debug\net9.0\CleanShop.Domain.Tests.dll
 G:\Project\CleanShop\CleanShop\tests\CleanShop.Domain.Tests\obj\Debug\net9.0\refint\CleanShop.Domain.Tests.dll
