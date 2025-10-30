@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yWBo5Hoc70g=",
+  "dgSpecHash": "XdLurkS9ytU=",
   "success": true,
-  "projectFilePath": "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Infrastructure\\CleanShop.Infrastructure.csproj",
+  "projectFilePath": "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Infrastructure\\CleanShop.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

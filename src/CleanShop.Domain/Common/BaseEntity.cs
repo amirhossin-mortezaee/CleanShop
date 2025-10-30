@@ -6,6 +6,6 @@
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
         public DateTime? UpdatedAt { get; set; }
 
-        public void setUpdated() => UpdatedAt = DateTime.UtcNow;
+        public void SetUpdated() => UpdatedAt = DateTime.UtcNow;
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Blazor.UI\\CleanShop.Blazor.UI.csproj": {}
+    "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Blazor.UI\\CleanShop.Blazor.UI.csproj": {}
   },
   "projects": {
-    "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Application\\CleanShop.Application.csproj": {
+    "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Application\\CleanShop.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Application\\CleanShop.Application.csproj",
+        "projectUniqueName": "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Application\\CleanShop.Application.csproj",
         "projectName": "CleanShop.Application",
-        "projectPath": "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Application\\CleanShop.Application.csproj",
+        "projectPath": "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Application\\CleanShop.Application.csproj",
         "packagesPath": "C:\\Users\\alizakizadeh\\.nuget\\packages\\",
-        "outputPath": "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Application\\obj\\",
+        "outputPath": "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Domain\\CleanShop.Domain.csproj": {
-                "projectPath": "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Domain\\CleanShop.Domain.csproj"
+              "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Domain\\CleanShop.Domain.csproj": {
+                "projectPath": "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Domain\\CleanShop.Domain.csproj"
               },
-              "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Infrastructure\\CleanShop.Infrastructure.csproj": {
-                "projectPath": "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Infrastructure\\CleanShop.Infrastructure.csproj"
+              "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Infrastructure\\CleanShop.Infrastructure.csproj": {
+                "projectPath": "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Infrastructure\\CleanShop.Infrastructure.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Blazor.UI\\CleanShop.Blazor.UI.csproj": {
+    "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Blazor.UI\\CleanShop.Blazor.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Blazor.UI\\CleanShop.Blazor.UI.csproj",
+        "projectUniqueName": "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Blazor.UI\\CleanShop.Blazor.UI.csproj",
         "projectName": "CleanShop.Blazor.UI",
-        "projectPath": "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Blazor.UI\\CleanShop.Blazor.UI.csproj",
+        "projectPath": "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Blazor.UI\\CleanShop.Blazor.UI.csproj",
         "packagesPath": "C:\\Users\\alizakizadeh\\.nuget\\packages\\",
-        "outputPath": "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Blazor.UI\\obj\\",
+        "outputPath": "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Blazor.UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -106,8 +106,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Application\\CleanShop.Application.csproj": {
-                "projectPath": "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Application\\CleanShop.Application.csproj"
+              "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Application\\CleanShop.Application.csproj": {
+                "projectPath": "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Application\\CleanShop.Application.csproj"
               }
             }
           }
@@ -181,14 +181,14 @@
         }
       }
     },
-    "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Domain\\CleanShop.Domain.csproj": {
+    "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Domain\\CleanShop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Domain\\CleanShop.Domain.csproj",
+        "projectUniqueName": "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Domain\\CleanShop.Domain.csproj",
         "projectName": "CleanShop.Domain",
-        "projectPath": "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Domain\\CleanShop.Domain.csproj",
+        "projectPath": "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Domain\\CleanShop.Domain.csproj",
         "packagesPath": "C:\\Users\\alizakizadeh\\.nuget\\packages\\",
-        "outputPath": "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Domain\\obj\\",
+        "outputPath": "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -247,14 +247,14 @@
         }
       }
     },
-    "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Infrastructure\\CleanShop.Infrastructure.csproj": {
+    "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Infrastructure\\CleanShop.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Infrastructure\\CleanShop.Infrastructure.csproj",
+        "projectUniqueName": "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Infrastructure\\CleanShop.Infrastructure.csproj",
         "projectName": "CleanShop.Infrastructure",
-        "projectPath": "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Infrastructure\\CleanShop.Infrastructure.csproj",
+        "projectPath": "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Infrastructure\\CleanShop.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\alizakizadeh\\.nuget\\packages\\",
-        "outputPath": "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Infrastructure\\obj\\",
+        "outputPath": "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

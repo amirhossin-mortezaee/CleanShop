@@ -30,4 +30,19 @@ public class Order : BaseEntity
         _items.Add(item);
         SetUpdated();
     }
+
+    public void RemoveItem(Guid productId)
+    {
+        var item = _items.FirstOrDefault(i => i.ProductId == productId);
+        if(item == null)
+          throw new DomainException("محصول مورد نظر در سفارش وجود ندارد");
+        _items.Remove(item);
+        SetUpdated();
+    }
+
+    public void ClearItems()
+    {
+        _items.Clear();
+        SetUpdated();
+    }
 }

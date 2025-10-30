@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qn4iNLUwDkU=",
+  "dgSpecHash": "OB/tBJDTOMM=",
   "success": true,
-  "projectFilePath": "G:\\Project\\CleanShop\\CleanShop\\CleanShop.Blazor.UI\\CleanShop.Blazor.UI.csproj",
+  "projectFilePath": "G:\\Project\\CleanShop\\CleanShop\\src\\CleanShop.Blazor.UI\\CleanShop.Blazor.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alizakizadeh\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.6\\microsoft.aspnetcore.authorization.9.0.6.nupkg.sha512",
     "C:\\Users\\alizakizadeh\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.6\\microsoft.aspnetcore.components.9.0.6.nupkg.sha512",

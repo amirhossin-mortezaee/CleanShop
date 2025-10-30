@@ -1,0 +1,12 @@
+G:\Project\CleanShop\CleanShop\src\CleanShop.Domain\bin\Debug\net9.0\CleanShop.Domain.deps.json
+G:\Project\CleanShop\CleanShop\src\CleanShop.Domain\bin\Debug\net9.0\CleanShop.Domain.dll
+G:\Project\CleanShop\CleanShop\src\CleanShop.Domain\bin\Debug\net9.0\CleanShop.Domain.pdb
+G:\Project\CleanShop\CleanShop\src\CleanShop.Domain\obj\Debug\net9.0\CleanShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\CleanShop\CleanShop\src\CleanShop.Domain\obj\Debug\net9.0\CleanShop.Domain.AssemblyInfoInputs.cache
+G:\Project\CleanShop\CleanShop\src\CleanShop.Domain\obj\Debug\net9.0\CleanShop.Domain.AssemblyInfo.cs
+G:\Project\CleanShop\CleanShop\src\CleanShop.Domain\obj\Debug\net9.0\CleanShop.Domain.csproj.CoreCompileInputs.cache
+G:\Project\CleanShop\CleanShop\src\CleanShop.Domain\obj\Debug\net9.0\CleanShop.Domain.sourcelink.json
+G:\Project\CleanShop\CleanShop\src\CleanShop.Domain\obj\Debug\net9.0\CleanShop.Domain.dll
+G:\Project\CleanShop\CleanShop\src\CleanShop.Domain\obj\Debug\net9.0\refint\CleanShop.Domain.dll
+G:\Project\CleanShop\CleanShop\src\CleanShop.Domain\obj\Debug\net9.0\CleanShop.Domain.pdb
+G:\Project\CleanShop\CleanShop\src\CleanShop.Domain\obj\Debug\net9.0\ref\CleanShop.Domain.dll

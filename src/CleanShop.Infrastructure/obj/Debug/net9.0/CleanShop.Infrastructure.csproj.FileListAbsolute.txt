@@ -1,0 +1,12 @@
+G:\Project\CleanShop\CleanShop\src\CleanShop.Infrastructure\bin\Debug\net9.0\CleanShop.Infrastructure.deps.json
+G:\Project\CleanShop\CleanShop\src\CleanShop.Infrastructure\bin\Debug\net9.0\CleanShop.Infrastructure.dll
+G:\Project\CleanShop\CleanShop\src\CleanShop.Infrastructure\bin\Debug\net9.0\CleanShop.Infrastructure.pdb
+G:\Project\CleanShop\CleanShop\src\CleanShop.Infrastructure\obj\Debug\net9.0\CleanShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\CleanShop\CleanShop\src\CleanShop.Infrastructure\obj\Debug\net9.0\CleanShop.Infrastructure.AssemblyInfoInputs.cache
+G:\Project\CleanShop\CleanShop\src\CleanShop.Infrastructure\obj\Debug\net9.0\CleanShop.Infrastructure.AssemblyInfo.cs
+G:\Project\CleanShop\CleanShop\src\CleanShop.Infrastructure\obj\Debug\net9.0\CleanShop.Infrastructure.csproj.CoreCompileInputs.cache
+G:\Project\CleanShop\CleanShop\src\CleanShop.Infrastructure\obj\Debug\net9.0\CleanShop.Infrastructure.sourcelink.json
+G:\Project\CleanShop\CleanShop\src\CleanShop.Infrastructure\obj\Debug\net9.0\CleanShop.Infrastructure.dll
+G:\Project\CleanShop\CleanShop\src\CleanShop.Infrastructure\obj\Debug\net9.0\refint\CleanShop.Infrastructure.dll
+G:\Project\CleanShop\CleanShop\src\CleanShop.Infrastructure\obj\Debug\net9.0\CleanShop.Infrastructure.pdb
+G:\Project\CleanShop\CleanShop\src\CleanShop.Infrastructure\obj\Debug\net9.0\ref\CleanShop.Infrastructure.dll
