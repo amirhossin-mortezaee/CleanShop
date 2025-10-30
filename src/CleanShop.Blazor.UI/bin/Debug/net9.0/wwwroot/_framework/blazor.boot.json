@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CleanShop.Blazor.UI",
   "resources": {
-    "hash": "sha256-IYCjUfXNwiXd/4NO90z7grtH4BtcRp1947flWyeSO8I=",
+    "hash": "sha256-19KSGBE375xHC2CwGtDNG+/FdHRzIxzOTiNgNM1ue0w=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.phaa9r44xv.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.4o2vz6uw5j.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,14 +201,14 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "CleanShop.Application.bdf7bdbeu5.wasm": "CleanShop.Application.wasm",
-      "CleanShop.Domain.sgjs4m9uo9.wasm": "CleanShop.Domain.wasm",
-      "CleanShop.Infrastructure.zhf4ds4qh5.wasm": "CleanShop.Infrastructure.wasm",
-      "CleanShop.Application.dsanjjbb8p.pdb": "CleanShop.Application.pdb",
-      "CleanShop.Domain.yfhbit8axi.pdb": "CleanShop.Domain.pdb",
-      "CleanShop.Infrastructure.fx6nioolgt.pdb": "CleanShop.Infrastructure.pdb",
-      "CleanShop.Blazor.UI.4ub6dtsyx0.wasm": "CleanShop.Blazor.UI.wasm",
-      "CleanShop.Blazor.UI.3jx5y5j9o2.pdb": "CleanShop.Blazor.UI.pdb"
+      "CleanShop.Application.5a6npc8hee.wasm": "CleanShop.Application.wasm",
+      "CleanShop.Domain.lsrt06ghni.wasm": "CleanShop.Domain.wasm",
+      "CleanShop.Infrastructure.qjq2j55eph.wasm": "CleanShop.Infrastructure.wasm",
+      "CleanShop.Application.cap4ogvv9m.pdb": "CleanShop.Application.pdb",
+      "CleanShop.Domain.659gq43txo.pdb": "CleanShop.Domain.pdb",
+      "CleanShop.Infrastructure.40jzksu5za.pdb": "CleanShop.Infrastructure.pdb",
+      "CleanShop.Blazor.UI.qpne4qu4v5.wasm": "CleanShop.Blazor.UI.wasm",
+      "CleanShop.Blazor.UI.nnyd1zfssp.pdb": "CleanShop.Blazor.UI.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.50iqa8w3ys.js": "sha256-pQdXuxfVeqYHOwd5HUM2ERd7OnXirj9JTF37b6OdTAc="
@@ -418,16 +418,16 @@
       "WindowsBase.361km0836k.wasm": "sha256-FacUCEIJYTnbOWgX/R9QP2QnurqRZwRIkDAH0N9z69s=",
       "mscorlib.qiu3j3msqk.wasm": "sha256-QvztpxTOEw4aMIl7zP3QtsPLNv/IWaK5wq22J4ReGrA=",
       "netstandard.lp03u0xxi4.wasm": "sha256-WVQsxULiAiEbyXLKolS7txnWVT82SsvsuMe4jJ+SqqI=",
-      "CleanShop.Application.bdf7bdbeu5.wasm": "sha256-j7hI+WImMV8N8582z2Ve40IyGH4k87wd/yGATQ6Ft+0=",
-      "CleanShop.Domain.sgjs4m9uo9.wasm": "sha256-dAKMSijkcTHVe/8C7Wep1O4dEbxzCA90UbSx3PaU02s=",
-      "CleanShop.Infrastructure.zhf4ds4qh5.wasm": "sha256-dwQ+jLuCMtphzKyEKHVsaFFqJaVSpisKjMFeJTz1B/o=",
-      "CleanShop.Blazor.UI.4ub6dtsyx0.wasm": "sha256-lH3uAh2C/pncg/PHdJ+B5CKX4+haeLnU7TfHCC9yPdA="
+      "CleanShop.Application.5a6npc8hee.wasm": "sha256-jahBwI86W7EXe9qOOurrMihsN6Wr7/jasTBZEiIh1AI=",
+      "CleanShop.Domain.lsrt06ghni.wasm": "sha256-C7aYEKpPDbiX/6R7oiLiGINq1HhTrrQqdMkdSjYPlyg=",
+      "CleanShop.Infrastructure.qjq2j55eph.wasm": "sha256-5ukdfvNb3QRMFsOHMNXRWudKawqWAF/6yBUm2S5vi7I=",
+      "CleanShop.Blazor.UI.qpne4qu4v5.wasm": "sha256-coTaxzhWin+fTkks4hhTt8T7X+aDW9JLz8x3Z2Kmskg="
     },
     "pdb": {
-      "CleanShop.Application.dsanjjbb8p.pdb": "sha256-XSVgs3jNfBNeztQVVUfenjPMmV1AVPTGs7hU9s5jRk8=",
-      "CleanShop.Domain.yfhbit8axi.pdb": "sha256-DhOK9p//ViMkF1/W7163NYLEkEVuV/tCTNfQHLGcxGs=",
-      "CleanShop.Infrastructure.fx6nioolgt.pdb": "sha256-LQsatlWcjj75w++GUe9Bb5AMNS1GOhX54qMIYMw92P4=",
-      "CleanShop.Blazor.UI.3jx5y5j9o2.pdb": "sha256-AcHQpOuuErOtUC0GmmBOWOk+hJ1hPWELI3Mjux+fRG4="
+      "CleanShop.Application.cap4ogvv9m.pdb": "sha256-/J6tr+uQa9KVWzzpzfYxfmDbyX6BJOyWr+FoQDy9VFg=",
+      "CleanShop.Domain.659gq43txo.pdb": "sha256-SuzrLZv+AJcRptZqfnqNiH6h5jbr9iv+cAvsA8YBanI=",
+      "CleanShop.Infrastructure.40jzksu5za.pdb": "sha256-DBHG2ta76DbO6F5XaYxVxWd5Q8h+WS+9ZZj0lb9RmYc=",
+      "CleanShop.Blazor.UI.nnyd1zfssp.pdb": "sha256-s+2IPXImPLNvw1duaQobOuYgcNH65YQi1VGgYf56HQ8="
     }
   },
   "cacheBootResources": true,
